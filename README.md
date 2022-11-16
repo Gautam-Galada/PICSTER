@@ -56,3 +56,6 @@ The main idea behind the methodology was to combine different architectures and 
 
 Results and Discussion 
 In this way, the crux of the article is quickly generated which allows the readers to swiftly skim through the highlights of a large quantity of textual content while saving enough time to examine the quality of information. The image caption, extractive, and abstractive summaries are compared using zero shot learning.
+
+![image](https://user-images.githubusercontent.com/65299277/202278901-73ecac55-8e7c-4939-80f2-fd95032b3962.png)
+
